@@ -1,6 +1,6 @@
 # kuku-drip-
 
-{check it out} (<https://github.com/GraceOswal/kuku-drip-.git>)
+{check it out} (https://github.com/GraceOswal/kuku-drip-.git)
 
 ## Description
 
@@ -16,7 +16,7 @@ Cockhub & Grill application allows the customer to make an order of choice eg; F
 
 ## Setup
 
-'git clone <https://github.com/GraceOswal/kuku-drip-.git>'
+'git clone https://github.com/GraceOswal/kuku-drip-.git'
 
 ## BDD
 
